@@ -1,0 +1,32 @@
+.app___1BbxF {
+  padding: 0 24rpx;
+}
+
+.logo___1E6Kq {
+  animation: logo-spin___3sX2V infinite 20s linear;
+  height: 240rpx;
+  width: 240rpx;
+  pointer-events: none;
+}
+
+.text___1AuC3 {
+  margin-top: 64rpx;
+}
+
+.header___11IJh {
+  padding-top: 30%;
+  font-size: 40rpx;
+  color: #333;
+  text-align: center;
+}
+
+
+@keyframes logo-spin___3sX2V {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}

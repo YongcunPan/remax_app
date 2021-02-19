@@ -1,0 +1,2 @@
+DOMAIN=https://worker.console.ncrcnd.ttctrc.com
+REMAX_APP_API=$DOMAIN/

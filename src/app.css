@@ -1,0 +1,15 @@
+page,view,text{
+  box-sizing: border-box;
+}
+page {
+  background: #fafafa;
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+button.primary,
+button.primary:hover {
+  background: #1c84c2;
+  color:#fff
+}
